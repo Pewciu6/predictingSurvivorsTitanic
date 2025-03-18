@@ -1,0 +1,12 @@
+
+    PassengerId: Unique identifier for each passenger.
+    Pclass: Passenger's class (1st, 2nd, 3rd).
+    Name: Passenger's name.
+    Sex: Passenger's gender (male or female).
+    Age: Passenger's age.
+    SibSp: Number of siblings or spouses aboard the Titanic.
+    Parch: Number of parents or children aboard the Titanic.
+    Ticket: Ticket number.
+    Fare: Passenger's fare.
+    Cabin: Cabin number.
+    Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
